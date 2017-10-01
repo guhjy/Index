@@ -1,5 +1,9 @@
 # Templates
 https://github.com/guhjy/template
+# Tidyverse
+[purrr tutorial](https://github.com/guhjy/purrr-tutorial)
+
+
 # Tutorials
 [Biostatistics for Biomedical Research](https://github.com/guhjy/bbr)
 
