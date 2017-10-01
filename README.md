@@ -36,6 +36,8 @@
 # Index
 [Awesome-R](https://github.com/guhjy/awesome-R)
 
+# Interaction
+[interaction plot](https://github.com/guhjy/interaction-plot)
 
 # Machine learning
 [rwml](https://github.com/guhjy/rwml-R)
