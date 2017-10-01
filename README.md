@@ -2,7 +2,9 @@
 [Robustregression](https://github.com/DanOvando/RobustRegression)
 
 # Templates
-https://github.com/guhjy/template
+[template](https://github.com/guhjy/template)
+
+[demons](https://github.com/guhjy/demons)
 # Tidyverse
 ## purrr
 [learn purrr](https://github.com/DanOvando/learn-purrr)
