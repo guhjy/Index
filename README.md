@@ -24,6 +24,9 @@
 
 [visdata](https://github.com/guhjy/visdat)
 
+# Confidence interval
+[Confidence interval fallacy](https://github.com/guhjy/ConfidenceIntervalsFallacy)
+
 # Distribution
 [semipartial](https://github.com/guhjy/semipartail)
 
