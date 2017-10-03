@@ -12,6 +12,7 @@
 # Calibration
 [CalibrationCurves](https://github.com/guhjy/CalibrationCurves)
 
+# Causation
 
 # Data
 ##Cleaning
@@ -42,8 +43,13 @@
 # Machine learning
 [rwml](https://github.com/guhjy/rwml-R)
 
+# Marginal structural model
+[simMSM](https://github.com/guhjy/simMSM)
+
 # Mediation
 [causamed](https://github.com/guhjy/causamed)
+
+[HIMA: hd1](https://github.com/guhjy/HIMA)
 
 # Miscellaneous
 [stattests](https://github.com/guhjy/statTests)
