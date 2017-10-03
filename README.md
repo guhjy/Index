@@ -15,7 +15,7 @@
 # Causation
 
 # Data
-##Cleaning
+## Cleaning
 [clickR](https://github.com/guhjy/clickR)
 
 [datasauRus](https://github.com/guhjy/datasauRus)
