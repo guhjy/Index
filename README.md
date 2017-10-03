@@ -68,6 +68,9 @@
 # People
 {Lionel](https://github.com/guhjy/Blog)
 
+# Post-selection inference
+[coinflibs](https://github.com/guhjy/coinflibs)
+
 
 # Reproducible Research
 [dvn](https://github.com/guhjy/dvn)
