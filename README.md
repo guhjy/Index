@@ -16,9 +16,13 @@
 
 [tmle](https://cran.r-project.org/web/packages/tmle/index.html)
 
+# Clinical trials
+[simstudy](https://cran.r-project.org/web/packages/simstudy/index.html)
 
 # Contrast
 [estimability](https://cran.r-project.org/web/packages/estimability/index.html)
+
+[intervals](https://cran.r-project.org/web/packages/intervals/index.html)
 
 [lsmeans](https://cran.r-project.org/web/packages/lsmeans/index.html)
 
@@ -78,6 +82,9 @@
 ## Post-selection inference
 [coinflibs](https://github.com/guhjy/coinflibs)
 
+[selectiveInference](https://cran.r-project.org/web/packages/selectiveInference/index.html)
+
+
 # Graph
 [scales](https://cran.r-project.org/web/packages/scales/index.html)
 
@@ -118,6 +125,8 @@
 
 
 # Mixed models
+[cAIC4: for lme4](https://cran.r-project.org/web/packages/cAIC4/index.html)
+
 [pbkrtest](https://cran.r-project.org/web/packages/pbkrtest/index.html)
 
 [r2glmm](https://cran.r-project.org/web/packages/r2glmm/index.html)
@@ -143,6 +152,8 @@
 [simr](https://cran.r-project.org/web/packages/simr/index.html
 
 # Prediction
+[conformal](https://cran.r-project.org/web/packages/conformal/index.html)
+
 [subsemble](https://cran.r-project.org/web/packages/subsemble/index.html)
 
 [superpc: hd1](https://cran.r-project.org/web/packages/superpc/index.html)
