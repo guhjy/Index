@@ -24,11 +24,18 @@
 
 [tukeytrend](https://cran.r-project.org/web/packages/tukeytrend/index.html)
 
+## Marginal
+[ggeffects](https://cran.r-project.org/web/packages/ggeffects/index.html)
+
+[margins](https://cran.r-project.org/web/packages/margins/index.html)
+
 # Data
 ## Cleaning
 [clickR](https://github.com/guhjy/clickR)
 
 [datasauRus](https://github.com/guhjy/datasauRus)
+
+[recipes](https://cran.r-project.org/web/packages/recipes/index.html)
 
 [skimR](https://github.com/guhjy/skimr)
 
@@ -46,7 +53,6 @@
 [effects: Effect Displays for Linear, Generalized Linear, and Other Models](https://cran.r-project.org/web/packages/effects/index.html)
 
 [heplots: Visualizing Hypothesis Tests in Multivariate Linear Models](https://cran.r-project.org/web/packages/heplots/index.html)
-
 
 # Equivalence
 [TOSTER](https://github.com/guhjy/TOSTER)
@@ -67,6 +73,12 @@
 ## Post-selection inference
 [coinflibs](https://github.com/guhjy/coinflibs)
 
+# Graph
+[scales](https://cran.r-project.org/web/packages/scales/index.html)
+
+[sjPlot](https://cran.r-project.org/web/packages/sjPlot/index.html)
+
+
 # Importance
 [relimp](https://cran.r-project.org/web/packages/relimp/index.html)
 
@@ -84,9 +96,6 @@
 [mlr](https://cran.r-project.org/web/packages/mlr/index.html)
 
 [rwml](https://github.com/guhjy/rwml-R)
-
-# Marginal structural model
-[simMSM](https://github.com/guhjy/simMSM)
 
 # Mediation
 [causamed](https://github.com/guhjy/causamed)
@@ -143,6 +152,8 @@
 ## glm
 [simglm](https://github.com/guhjy/simglm)
 
+# Marginal structural model
+[simMSM](https://github.com/guhjy/simMSM)
 
 # Reproducible Research
 [dvn](https://github.com/guhjy/dvn)
