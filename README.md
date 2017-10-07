@@ -71,7 +71,7 @@
 
 [relaxo](https://cran.r-project.org/web/packages/relaxo/index.html)
 
-[**RRegrs](https://github.com/enanomapper/RRegrs)
+[**RRegrs**](https://github.com/enanomapper/RRegrs)
 
 [SuperLearner](https://cran.r-project.org/web/packages/SuperLearner/index.html)
 
