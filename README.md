@@ -9,10 +9,7 @@
 
 [shinyApps](https://github.com/nicebread/shinyApps)
 
-# Calibration
-[CalibrationCurves](https://github.com/guhjy/CalibrationCurves)
-
-## Causation
+# Causation
 [ltmle: longitudinal](https://cran.r-project.org/web/packages/CovSelHigh/index.html)
 
 [simcausal](https://cran.r-project.org/web/packages/simcausal/index.html)
@@ -20,11 +17,15 @@
 [tmle](https://cran.r-project.org/web/packages/tmle/index.html)
 
 
-## Contrast
+# Contrast
+[estimability](https://cran.r-project.org/web/packages/estimability/index.html)
+
 [lsmeans](https://cran.r-project.org/web/packages/lsmeans/index.html)
 
-## Data
-# Cleaning
+[tukeytrend](https://cran.r-project.org/web/packages/tukeytrend/index.html)
+
+# Data
+## Cleaning
 [clickR](https://github.com/guhjy/clickR)
 
 [datasauRus](https://github.com/guhjy/datasauRus)
@@ -33,24 +34,24 @@
 
 [standardize](https://cran.r-project.org/web/packages/standardize/index.html)
 
-[visdata](https://github.com/guhjy/visdat)
+[visdat](https://github.com/guhjy/visdat)
+
+## Distribution
+[semipartial](https://github.com/guhjy/semipartail)
 
 # Confidence interval
 [Confidence interval fallacy](https://github.com/guhjy/ConfidenceIntervalsFallacy)
 
-# Distribution
-[semipartial](https://github.com/guhjy/semipartail)
-
-## Effect size
+# Effect size
 [effects: Effect Displays for Linear, Generalized Linear, and Other Models](https://cran.r-project.org/web/packages/effects/index.html)
 
 [heplots: Visualizing Hypothesis Tests in Multivariate Linear Models](https://cran.r-project.org/web/packages/heplots/index.html)
 
 
-## Equivalence
+# Equivalence
 [TOSTER](https://github.com/guhjy/TOSTER)
 
-## Feature selection
+# Feature selection
 [caret](https://cran.r-project.org/web/packages/caret/index.html)
 
 [CovSelHigh](https://cran.r-project.org/web/packages/CovSelHigh/index.html)
@@ -63,17 +64,11 @@
 
 [SuperLearner](https://cran.r-project.org/web/packages/SuperLearner/index.html)
 
-
-## Fixed effects models
-[wfe](https://cran.r-project.org/web/packages/wfe/index.html)
-
-
-## glm
-[simglm](https://github.com/guhjy/simglm)
+## Post-selection inference
+[coinflibs](https://github.com/guhjy/coinflibs)
 
 # Importance
 [relimp](https://cran.r-project.org/web/packages/relimp/index.html)
-
 
 
 # Index
@@ -101,7 +96,9 @@
 [medflex](https://cran.r-project.org/web/packages/medflex/index.html)
 
 # Miscellaneous
-[sjstats](https://cran.r-project.org/web/packages/sjstats/index.html)
+[sjmisc](https://cran.r-project.org/web/packages/sjmisc/index.html)
+
+[**sjstats**](https://cran.r-project.org/web/packages/sjstats/index.html)
 
 [stattests](https://github.com/guhjy/statTests)
 
@@ -109,8 +106,16 @@
 # Mixed models
 [pbkrtest](https://cran.r-project.org/web/packages/pbkrtest/index.html)
 
+[r2glmm](https://cran.r-project.org/web/packages/r2glmm/index.html)
 
-# Model selection
+## Fixed effects models
+[wfe](https://cran.r-project.org/web/packages/wfe/index.html)
+
+# Modeling
+## Calibration
+[CalibrationCurves](https://github.com/guhjy/CalibrationCurves)
+
+## Model selection
 [best-subset](https://github.com/guhjy/best-subset)
 
 # Multiple testing
@@ -120,8 +125,8 @@
 # People
 {Lionel](https://github.com/guhjy/Blog)
 
-# Post-selection inference
-[coinflibs](https://github.com/guhjy/coinflibs)
+# Power
+[simr](https://cran.r-project.org/web/packages/simr/index.html
 
 # Prediction
 [subsemble](https://cran.r-project.org/web/packages/subsemble/index.html)
@@ -134,6 +139,9 @@
 [arm](https://cran.r-project.org/web/packages/arm/index.html)
 
 [lmtest](https://cran.r-project.org/web/packages/lmtest/index.html)
+
+## glm
+[simglm](https://github.com/guhjy/simglm)
 
 
 # Reproducible Research
