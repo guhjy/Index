@@ -46,6 +46,9 @@
 ## Distribution
 [semipartial](https://github.com/guhjy/semipartail)
 
+## Tidy
+[tidyverse](https://www.tidyverse.org/)
+
 # Confidence interval
 [Confidence interval fallacy](https://github.com/guhjy/ConfidenceIntervalsFallacy)
 
@@ -67,6 +70,8 @@
 [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html)
 
 [relaxo](https://cran.r-project.org/web/packages/relaxo/index.html)
+
+[**RRegrs](https://github.com/enanomapper/RRegrs)
 
 [SuperLearner](https://cran.r-project.org/web/packages/SuperLearner/index.html)
 
