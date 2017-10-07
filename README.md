@@ -30,12 +30,28 @@
 # Distribution
 [semipartial](https://github.com/guhjy/semipartail)
 
+# Effect size
+[effects: Effect Displays for Linear, Generalized Linear, and Other Models](https://cran.r-project.org/web/packages/effects/index.html)
+
+[heplots: Visualizing Hypothesis Tests in Multivariate Linear Models](https://cran.r-project.org/web/packages/heplots/index.html)
+
 
 # Equivalence
 [TOSTER](https://github.com/guhjy/TOSTER)
 
+# Feature selection
+[caret](https://cran.r-project.org/web/packages/caret/index.html)
+
+[fscaret](https://cran.r-project.org/web/packages/fscaret/index.html)
+
+
 # glm
 [simglm](https://github.com/guhjy/simglm)
+
+# Importance
+[relimp](https://cran.r-project.org/web/packages/relimp/index.html)
+
+
 
 # Index
 [Awesome-R](https://github.com/guhjy/awesome-R)
@@ -73,6 +89,11 @@
 
 # Post-selection inference
 [coinflibs](https://github.com/guhjy/coinflibs)
+
+# Regression
+[arm](https://cran.r-project.org/web/packages/arm/index.html)
+
+[lmtest](https://cran.r-project.org/web/packages/lmtest/index.html)
 
 
 # Reproducible Research
