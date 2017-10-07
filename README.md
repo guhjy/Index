@@ -168,7 +168,7 @@
 ## glm
 [simglm](https://github.com/guhjy/simglm)
 
-# Marginal structural model
+## Marginal structural model
 [simMSM](https://github.com/guhjy/simMSM)
 
 # Reproducible Research
