@@ -12,15 +12,26 @@
 # Calibration
 [CalibrationCurves](https://github.com/guhjy/CalibrationCurves)
 
-# Causation
+## Causation
+[ltmle: longitudinal](https://cran.r-project.org/web/packages/CovSelHigh/index.html)
 
-# Data
-## Cleaning
+[simcausal](https://cran.r-project.org/web/packages/simcausal/index.html)
+
+[tmle](https://cran.r-project.org/web/packages/tmle/index.html)
+
+
+## Contrast
+[lsmeans](https://cran.r-project.org/web/packages/lsmeans/index.html)
+
+## Data
+# Cleaning
 [clickR](https://github.com/guhjy/clickR)
 
 [datasauRus](https://github.com/guhjy/datasauRus)
 
 [skimR](https://github.com/guhjy/skimr)
+
+[standardize](https://cran.r-project.org/web/packages/standardize/index.html)
 
 [visdata](https://github.com/guhjy/visdat)
 
@@ -30,22 +41,34 @@
 # Distribution
 [semipartial](https://github.com/guhjy/semipartail)
 
-# Effect size
+## Effect size
 [effects: Effect Displays for Linear, Generalized Linear, and Other Models](https://cran.r-project.org/web/packages/effects/index.html)
 
 [heplots: Visualizing Hypothesis Tests in Multivariate Linear Models](https://cran.r-project.org/web/packages/heplots/index.html)
 
 
-# Equivalence
+## Equivalence
 [TOSTER](https://github.com/guhjy/TOSTER)
 
-# Feature selection
+## Feature selection
 [caret](https://cran.r-project.org/web/packages/caret/index.html)
+
+[CovSelHigh](https://cran.r-project.org/web/packages/CovSelHigh/index.html)
 
 [fscaret](https://cran.r-project.org/web/packages/fscaret/index.html)
 
+[glmnet](https://cran.r-project.org/web/packages/glmnet/index.html)
 
-# glm
+[relaxo](https://cran.r-project.org/web/packages/relaxo/index.html)
+
+[SuperLearner](https://cran.r-project.org/web/packages/SuperLearner/index.html)
+
+
+## Fixed effects models
+[wfe](https://cran.r-project.org/web/packages/wfe/index.html)
+
+
+## glm
 [simglm](https://github.com/guhjy/simglm)
 
 # Importance
@@ -63,6 +86,8 @@
 
 
 # Machine learning
+[mlr](https://cran.r-project.org/web/packages/mlr/index.html)
+
 [rwml](https://github.com/guhjy/rwml-R)
 
 # Marginal structural model
@@ -73,8 +98,16 @@
 
 [HIMA: hd1](https://github.com/guhjy/HIMA)
 
+[medflex](https://cran.r-project.org/web/packages/medflex/index.html)
+
 # Miscellaneous
+[sjstats](https://cran.r-project.org/web/packages/sjstats/index.html)
+
 [stattests](https://github.com/guhjy/statTests)
+
+
+# Mixed models
+[pbkrtest](https://cran.r-project.org/web/packages/pbkrtest/index.html)
 
 
 # Model selection
@@ -89,6 +122,13 @@
 
 # Post-selection inference
 [coinflibs](https://github.com/guhjy/coinflibs)
+
+# Prediction
+[subsemble](https://cran.r-project.org/web/packages/subsemble/index.html)
+
+[superpc: hd1](https://cran.r-project.org/web/packages/superpc/index.html)
+
+
 
 # Regression
 [arm](https://cran.r-project.org/web/packages/arm/index.html)
