@@ -43,6 +43,9 @@
 # Interaction
 [interaction plot](https://github.com/guhjy/interaction-plot)
 
+[interplot](https://cran.r-project.org/web/packages/interplot/index.html)
+
+
 # Machine learning
 [rwml](https://github.com/guhjy/rwml-R)
 
